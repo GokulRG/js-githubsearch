@@ -1,2 +1,2 @@
 # js-githubsearch
- A simple application to search for users and their repos on github
+ A simple JS application to search for github users and their repos on github
